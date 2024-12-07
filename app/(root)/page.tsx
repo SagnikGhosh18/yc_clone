@@ -19,8 +19,8 @@ export default async function Home({
                     Pitch your startup, <br /> Connect with Extrepreneurs
                 </h1>
                 <p className="sub-heading !max-w-3xl">
-                    Submit Ideas, Vote on Pitcher, and Get Notices in Virtual
-                    Competitions
+                    Submit Ideas, Vote on Pitches, and Get Noticed in Virtual
+                    Competitions.
                 </p>
                 <SearchForm query={query} />
             </section>
